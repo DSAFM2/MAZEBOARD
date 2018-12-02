@@ -819,11 +819,11 @@ int main()
 
         cout << "\t\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^" << endl;
         cout << "\t\tPress 1 to Enter Room 1:  " << endl; //Entrance to Room 1
-        cout << "\t\tPress 2 to Enter Room 3:  " << endl; //Entrance to Room 2
-        cout << "\t\tPress 3 to Enter Room 5:  " << endl; //Entrance to Room 3
-        cout << "\t\tPress 4 to Enter Room 6:  " << endl; //Entrance to Room 4
-        cout << "\t\tPress 5 to Enter Room 7:  " << endl; //Entrance to Room 5
-        cout << "\t\tPress 6 to Enter Room 8:  " << endl; //Entrance to Room 5
+        cout << "\t\tPress 2 to Enter Room 3:  " << endl; //Entrance to Room 3
+        cout << "\t\tPress 3 to Enter Room 5:  " << endl; //Entrance to Room 5
+        cout << "\t\tPress 4 to Enter Room 6:  " << endl; //Entrance to Room 6
+        cout << "\t\tPress 5 to Enter Room 7:  " << endl; //Entrance to Room 7
+        cout << "\t\tPress 6 to Enter Room 8:  " << endl; //Entrance to Room 8
         cout << "\t\tPress 7 to Read Instruction " << endl; //Provides a list of instructions to assist with playing the game.
         cout << "\t\tPress 8 to Exit Game:  " << endl; //Exits maze
         cout << "\t\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^" << endl;
