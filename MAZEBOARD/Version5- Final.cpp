@@ -1,5 +1,5 @@
-#include < iostream >	// Basic C++ Console Library
-#include < windows.h >	// This allows access to Windows Function only. Therefore this code can only run on Windows machines.
+#include <iostream>	// Basic C++ Console Library
+#include <windows.h>	// This allows access to Windows Function only. Therefore this code can only run on Windows machines.
 
 using namespace std;	
 
